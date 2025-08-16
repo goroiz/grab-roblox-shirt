@@ -1,0 +1,21 @@
+{
+  "name": "roblox-shirt-template-grabber",
+  "version": "1.0.0",
+  "description": "CLI buat ambil PNG template dari Classic Shirt / T-Shirt / Pants Roblox",
+  "main": "grab-roblox-shirt.js",
+  "scripts": {
+    "start": "node grab-roblox-shirt.js"
+  },
+  "keywords": [
+    "roblox",
+    "shirt",
+    "template",
+    "classic shirt",
+    "assetdelivery"
+  ],
+  "author": "ijam x ChatGPT",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.0"
+  }
+}
